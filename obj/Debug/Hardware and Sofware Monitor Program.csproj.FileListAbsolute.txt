@@ -1,0 +1,15 @@
+G:\Iskola\Suli\Programozás\Hardware and Sofware Monitor Program\Hardware and Sofware Monitor Program\obj\Debug\Hardware and Sofware Monitor Program.csprojAssemblyReference.cache
+G:\Iskola\Suli\Programozás\Hardware and Sofware Monitor Program\Hardware and Sofware Monitor Program\obj\Debug\MainWindow.g.cs
+G:\Iskola\Suli\Programozás\Hardware and Sofware Monitor Program\Hardware and Sofware Monitor Program\obj\Debug\App.g.cs
+G:\Iskola\Suli\Programozás\Hardware and Sofware Monitor Program\Hardware and Sofware Monitor Program\obj\Debug\Hardware and Sofware Monitor Program_MarkupCompile.cache
+G:\Iskola\Suli\Programozás\Hardware and Sofware Monitor Program\Hardware and Sofware Monitor Program\obj\Debug\Hardware and Sofware Monitor Program_MarkupCompile.lref
+G:\Iskola\Suli\Programozás\Hardware and Sofware Monitor Program\Hardware and Sofware Monitor Program\bin\Debug\Hardware and Sofware Monitor Program.exe.config
+G:\Iskola\Suli\Programozás\Hardware and Sofware Monitor Program\Hardware and Sofware Monitor Program\bin\Debug\Hardware and Sofware Monitor Program.exe
+G:\Iskola\Suli\Programozás\Hardware and Sofware Monitor Program\Hardware and Sofware Monitor Program\bin\Debug\Hardware and Sofware Monitor Program.pdb
+G:\Iskola\Suli\Programozás\Hardware and Sofware Monitor Program\Hardware and Sofware Monitor Program\obj\Debug\MainWindow.baml
+G:\Iskola\Suli\Programozás\Hardware and Sofware Monitor Program\Hardware and Sofware Monitor Program\obj\Debug\Hardware and Sofware Monitor Program.g.resources
+G:\Iskola\Suli\Programozás\Hardware and Sofware Monitor Program\Hardware and Sofware Monitor Program\obj\Debug\Hardware_and_Sofware_Monitor_Program.Properties.Resources.resources
+G:\Iskola\Suli\Programozás\Hardware and Sofware Monitor Program\Hardware and Sofware Monitor Program\obj\Debug\Hardware and Sofware Monitor Program.csproj.GenerateResource.cache
+G:\Iskola\Suli\Programozás\Hardware and Sofware Monitor Program\Hardware and Sofware Monitor Program\obj\Debug\Hardware and Sofware Monitor Program.csproj.CoreCompileInputs.cache
+G:\Iskola\Suli\Programozás\Hardware and Sofware Monitor Program\Hardware and Sofware Monitor Program\obj\Debug\Hardware and Sofware Monitor Program.exe
+G:\Iskola\Suli\Programozás\Hardware and Sofware Monitor Program\Hardware and Sofware Monitor Program\obj\Debug\Hardware and Sofware Monitor Program.pdb
